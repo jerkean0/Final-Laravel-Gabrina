@@ -213,9 +213,7 @@ The API is now running at `http://localhost:8000`
 
 ## 📡 API Endpoints
 
-> **Base URL:** `http://localhost:8000/api`
-> **Auth:** All protected routes require `Authorization: Bearer {token}` header.
-> **📌 Postman Collection:** [Yalung Scholarship Management System final](https://www.postman.com/yalungcarlos17-6342291/yalung-carlos-s-workspace/documentation/52767019-817cb6bf-fe02-48ca-89de-8f60434506ad)
+> **📌 Postman:**
 
 ---
 
