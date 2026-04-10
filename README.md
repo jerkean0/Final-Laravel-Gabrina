@@ -193,9 +193,8 @@ The API is now running at `http://localhost:8000`
 
 ## 📡 API Endpoints
 
-> **📌 Postman Collection:** [Access the full API collection here](https://yalungcarlos17-6342291.postman.co/workspace/yalung-carlos's-Workspace~da399340-0379-4f03-841d-b8e7bdf8331e/collection/52767019-817cb6bf-fe02-48ca-89de-8f60434506ad?action=share&source=copy-link&creator=52767019)
+> **📌 Postman:** 
 
-> All protected routes require `Authorization: Bearer {token}` header.
 
 ### 🔐 Authentication
 | Method | Endpoint | Description | Auth |
