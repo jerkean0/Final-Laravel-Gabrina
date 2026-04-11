@@ -1,4 +1,4 @@
-# 🎓 Yalung - Scholarship Management System
+# 🎓 Wagas - Scholarship Management System
 
 <div align="center">
 
@@ -20,7 +20,7 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" style="border-radius: 50%;"/>
       <br />
-      <strong>Carlos Eduardo T. Yalung</strong>
+      <strong>Jim Cyron R. Wagas</strong>
       <br />
       <em>BSIT - 2D</em>
       <br />
@@ -167,8 +167,8 @@
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/your-username/yalung-scholarship.git
-cd yalung-scholarship
+git clone https://github.com/your-username/wagas-scholarship.git
+cd wagas-scholarship
 ```
 
 ### Step 2 — Install PHP dependencies
@@ -185,7 +185,7 @@ php artisan key:generate
 ### Step 4 — Set up your database
 Open `.env` and update:
 ```env
-DB_DATABASE=Yalung
+DB_DATABASE=Wagas
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -217,7 +217,7 @@ The API is now running at `http://localhost:8000`
 
 ---
 
-### � Auth
+###   Auth
 
 | Method | Endpoint | Description | Auth |
 | :----- | :------- | :---------- | :--- |
@@ -346,4 +346,4 @@ The API is now running at `http://localhost:8000`
 
 This project is developed for academic purposes at **St. Cecilia's College-Cebu, Inc.**
 
-© 2026 Carlos Eduardo T. Yalung — BSIT 2-D
+© 2026 Jim Cyron R. Wagas — BSIT 2-D
