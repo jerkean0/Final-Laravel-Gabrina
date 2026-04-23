@@ -20,9 +20,9 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" style="border-radius: 50%;"/>
       <br />
-      <strong>Jim Cyron R. Wagas</strong>
+      <strong>Jerkean C> Gabrina</strong>
       <br />
-      <em>BSIT - 2D</em>
+      <em>BSIT - 2A</em>
       <br />
       <em>St. Cecilia's College-Cebu, Inc.</em>
     </td>
@@ -185,7 +185,7 @@ php artisan key:generate
 ### Step 4 — Set up your database
 Open `.env` and update:
 ```env
-DB_DATABASE=Wagas
+DB_DATABASE=Gabrina
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -346,4 +346,4 @@ The API is now running at `http://localhost:8000`
 
 This project is developed for academic purposes at **St. Cecilia's College-Cebu, Inc.**
 
-© 2026 Jim Cyron R. Wagas — BSIT 2-D
+© 2026 Jerkean C. Gabrina — BSIT 2-A
