@@ -1,4 +1,4 @@
-# 🎓 Wagas - Scholarship Management System
+# 🎓 Gabrina - Scholarship Management System
 
 <div align="center">
 
