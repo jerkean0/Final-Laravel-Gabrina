@@ -20,7 +20,7 @@
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" height="100" style="border-radius: 50%;"/>
       <br />
-      <strong>Jerkean C> Gabrina</strong>
+      <strong>Jerkean C. Gabrina</strong>
       <br />
       <em>BSIT - 2A</em>
       <br />
