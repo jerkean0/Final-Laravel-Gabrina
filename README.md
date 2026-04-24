@@ -1,4 +1,4 @@
-# 🎓 Gabrina - Scholarship Management System
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/39b9c01a-599c-4aa3-acc3-06d3878dfccc" /># 🎓 Gabrina - Scholarship Management System
 
 <div align="center">
 
@@ -167,8 +167,8 @@
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/your-username/wagas-scholarship.git
-cd wagas-scholarship
+https://github.com/jerkean0/Final-Laravel-Gabrina.git
+cd Gabrina-scholarship
 ```
 
 ### Step 2 — Install PHP dependencies
