@@ -22,7 +22,7 @@
       <br />
       <strong>Jerkean C. Gabrina</strong>
       <br />
-      <em>BSIT - 2A</em>
+      <em>BSIT - 2E</em>
       <br />
       <em>St. Cecilia's College-Cebu, Inc.</em>
     </td>
